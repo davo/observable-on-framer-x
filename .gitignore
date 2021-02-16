@@ -1,3 +1,7 @@
+# Framer X
+
+examples/*.framerx
+
 # Logs
 logs
 *.log
