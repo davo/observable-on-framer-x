@@ -13,5 +13,5 @@ So, in this example, the React app is a Framer X project, which incorporates all
 By mapping Observable’s `module.redefine` methods with Framer X’s [Property Controls](https://www.framer.com/api/property-controls/), we have a seamless integration of an Observable cell with Framer X controls that overrides the notebook data.
 
 
-Framer X Web Project
+##### Framer X Web Project
 - [Overriding Observable Cells with Framer Props](https://framer.com/projects/Overriding-Observable-Cells-with-Framer-Props--zKnJUSeu4Pkqiaz3peFI-apCCE?node=w0Zlet6Mq)
