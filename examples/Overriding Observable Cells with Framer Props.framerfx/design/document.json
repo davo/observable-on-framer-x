@@ -1,0 +1,126 @@
+{
+  "root" : {
+    "__class" : "RootNode",
+    "children" : [
+      {
+        "__class" : "PageNode",
+        "children" : [
+          {
+            "__class" : "CodeComponentNode",
+            "$control__advancedProps" : {
+              "type" : "boolean",
+              "value" : false
+            },
+            "$control__backgroundColor" : {
+              "type" : "color",
+              "value" : "#fff"
+            },
+            "$control__credits" : {
+              "type" : "boolean",
+              "value" : false
+            },
+            "$control__exponent" : {
+              "type" : "number",
+              "value" : 5
+            },
+            "$control__lameWidth" : {
+              "type" : "number",
+              "value" : 200
+            },
+            "$control__lighting" : {
+              "type" : "boolean",
+              "value" : false
+            },
+            "$control__margin" : {
+              "type" : "number",
+              "value" : 75
+            },
+            "$control__resolution" : {
+              "type" : "number",
+              "value" : 32
+            },
+            "$control__shadows" : {
+              "type" : "boolean",
+              "value" : false
+            },
+            "aspectRatio" : null,
+            "bottom" : null,
+            "centerAnchorX" : 0,
+            "centerAnchorY" : 0,
+            "clip" : true,
+            "codeComponentIdentifier" : ".\/ObservableCell.tsx_ObservableCell",
+            "codeComponentPackageVersion" : null,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "duplicatedFrom" : [
+              "cL7ABYyEJ"
+            ],
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : false,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 550,
+            "heightType" : 0,
+            "id" : "qnzO4W5Ec",
+            "intrinsicHeight" : 550,
+            "intrinsicWidth" : 980,
+            "left" : 0,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "w0Zlet6Mq",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "right" : null,
+            "rotation" : 0,
+            "top" : 0,
+            "visible" : true,
+            "width" : 980,
+            "widthType" : 0
+          }
+        ],
+        "duplicatedFrom" : null,
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
+        "homeNodeId" : null,
+        "id" : "w0Zlet6Mq",
+        "name" : "Observable",
+        "originalid" : null,
+        "parentid" : "hdUGXoMPk",
+        "visible" : false
+      }
+    ],
+    "disableBackdropFilters" : true,
+    "duplicatedFrom" : null,
+    "id" : "hdUGXoMPk",
+    "name" : null,
+    "originalid" : null,
+    "parentid" : null,
+    "tokens" : {
+
+    },
+    "tokensIndex" : [
+
+    ],
+    "visible" : false
+  },
+  "version" : 75
+}
