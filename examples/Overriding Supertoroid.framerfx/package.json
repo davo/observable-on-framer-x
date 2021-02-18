@@ -1,0 +1,19 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "186686bc-8b67-4141-b480-2b788500a188"
+	},
+	"author": "Davo Galavotti",
+	"dependencies": {
+		"@davo/supertoroid": "https://api.observablehq.com/@davo/supertoroid.tgz?v=3",
+		"@observablehq/runtime": "4"
+	}
+}
